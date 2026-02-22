@@ -14,7 +14,7 @@ Originally created by Eduard Torres, this version has been customized by **Maria
 
 ## 🚀 Live Demo
 
-Visit the live site: `https://Marian9746.github.io/demo-DT/`
+Visit the live site: `https://marian9746.github.io/DEMO-DT-ISDI_V2/`
 
 ## 📋 Features
 
@@ -72,4 +72,4 @@ This project is for educational purposes. Feel free to use, modify, and share fo
 
 ---
 
-**Ready to explore Digital Twins?** Start with the [live demo](https://Marian9746.github.io/demo-DT/) and dive into interactive simulations!
+**Ready to explore Digital Twins?** Start with the [live demo](https://marian9746.github.io/DEMO-DT-ISDI_V2/) and dive into interactive simulations!
